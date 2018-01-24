@@ -21,7 +21,7 @@ namespace ConsoleIdentity01
             //var path = @"C:\Users\amk\Downloads\Backup\68356029.pdf";
             //path = Path.GetDirectoryName(path) + @"\" + "Sample.jpg";
 
-            //var i = 10;
+            var i = 10;
 
 
             //*********************************************
